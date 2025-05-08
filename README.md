@@ -1,7 +1,7 @@
-# 🧪 React Vite Starter Kit
+# 🧪 React Vite Starter Kit (TypeScript)
 
-✨ A sleek, ready-to-use React template powered by Vite, packed with modern libraries and best practices to kickstart your web app development.  
-_📌 Note: This is just my opinion, not an expert in React or Vite. I've created this setup based on my learning experience!_
+✨ A sleek, ready-to-use React template powered by Vite, packed with modern libraries and best practices to kickstart your TypeScript-based web app development.  
+_📌 Note: This is just my opinion, not an expert. I've created this setup based on my learning experience!_
 
 ---
 
