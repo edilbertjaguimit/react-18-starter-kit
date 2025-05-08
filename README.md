@@ -71,7 +71,7 @@ _Built with **Vite 5**, **React 18**, and **TailwindCSS v4** (latest version) fo
 1. Clone the repo:
 
 ```bash
- git clone <repo-url>
+ git clone https://github.com/edilbertjaguimit/react-18-starter-kit.git
 ```
 
 2. Install dependencies:
